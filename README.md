@@ -10,7 +10,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-  Starting with our first analysis, we have compiled the original data from the Kickstarter worksheet into a pivot chart filtered by projects in the theater category by success and failure throughout the months of the year. As seen in the pivot chart below, we can see the exact number of successful, failed, canceled plays. As well as the total amount of plays launched each month from the years 2009 to 2017.
+  Starting with our first analysis, we have compiled the original data from the [Kickstarter Worksheet](https://github.com/JakeWayneSandoval/Kickstarter-Analysis/blob/main/Kickstarter_challenge.xlsx) into a pivot chart filtered by projects in the theater category by success and failure throughout the months of the year. As seen in the pivot chart below, we can see the exact number of successful, failed, canceled plays. As well as the total amount of plays launched each month from the years 2009 to 2017.
 
 <img width="351" alt="Screen Shot 2022-06-16 at 8 29 52 PM" src="https://user-images.githubusercontent.com/107080237/174204393-c8c12914-170b-45ad-8475-66b669d3868f.png">
 
